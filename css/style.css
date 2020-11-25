@@ -1,0 +1,187 @@
+*{
+	font-family: sans-serif;
+	margin:0;
+	padding: 0;
+	text-decoration: none;
+}
+/*header css*/
+.header{
+	overflow: hidden;
+
+
+}
+.warrper{
+	margin-top: 80px;
+}
+.logo{
+		width:11%;
+	float:left;
+	 padding: 26px 44px 0px 41px;
+
+}
+.logo img{
+	width: 100%;
+}
+.menu{
+	float: left;
+	width: 50s%;
+	padding: 15px 20px 20px 20px;
+}
+.menu .list{
+	text-align: left;
+	list-style-type: none;
+	margin-top: 25px;
+
+}
+.menu .list li{
+	display: inline-block;
+}
+.menu .list li a{
+	font-size:17px;
+	color:#485769;
+	padding: 0 16px;
+}
+.log{
+	float:right;
+	width: 16%;
+   padding: 40px 12px 0px 0px;
+}
+.log .button{
+	color: #fff;
+    background-color: #0197F5;
+    padding: 9px 21px;
+    border-radius: 5px;
+}
+.log a{
+	display: inline-block;
+	padding-right: 25px;
+}
+
+/*banner css*/
+.banner{
+	overflow: hidden;
+	margin: 145px 15px;
+
+}
+.banner .banner_content{
+	float:left;
+	width: 37%;
+    padding: 111px 0px 0px 165px;
+	
+}
+.banner .banner_content h1{
+	font-size: 70px;
+	color: #374A69;
+
+}
+.banner .banner_content h3{
+	color: #374A69;
+	font-weight: 100;
+	margin-top: 26px;
+}
+.banner .banner_content a{
+	display: inline-block;
+	color:#fff;
+	background-color: #0197F5;
+	padding: 17px 41px;
+	margin-top: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+
+}
+.banner .banner_img{
+	float:right;
+}
+  /*about css*/
+ .about{
+ 	overflow: hidden;
+ 	width: 87%;
+ 	margin: auto;
+ 	text-align: center;
+
+ }
+ 		
+ .about .head1{
+ 	font-size: 35px;
+ 	text-align: center;
+ 	color: #374A69;
+ 	margin-bottom: 120px;
+ }
+ 		/*1st*/
+
+ .about .st{
+ 	float:left;
+ 	display: inline-block;
+ 	width: 33%;
+ }
+ .about .st_img{
+ 	width: 100%;
+ }
+ .about .st_para{
+ 	color: #374A69;
+	font-size: 18px;
+ }
+ .about .st_para p{
+ 	font-size: 17px;
+ 	margin-top: 20px;
+ }
+ 		/*2nd*/
+
+ .about .nd{
+ 	float:left;
+ 	display: inline-block;
+ 	margin-left: 50px;
+ 	width: 33%;
+ }
+ .about .nd_img{
+ 	width: 100%;
+ }
+ .about .nd_para{
+ 	color: #374A69;
+	font-size: 18px;
+ }
+ .about .nd_para p{
+ 	font-size: 17px;
+ 	margin-top: 20px;
+ }
+ 		/*3rd*/
+
+ .about .rd{
+ 	float:right;
+ 	display: inline-block;
+ 	width: 29%;
+ }
+ .about .rd_img{
+ 	width: 100%;
+ }
+ .about .rd_para{
+ 	color: #374A69;
+	font-size: 18px;
+ }
+ .about .rd_para p{
+ 	font-size: 17px;
+ 	margin-top: 20px;
+ }
+  	/*get button*/
+
+.about .get_button a{
+	color: #20A4F6;
+    background-color: transparent;
+    padding: 15px 100px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 115px;
+    border:1px solid #20A4F6;
+    font-size: 20px;
+    margin-bottom: 115px;
+}
+.footer{
+	width: 80%;
+	margin: auto;
+}
+.footer .foot p{
+	color: #374A69;
+	font-size: 15px;
+	display: inline-block;
+	margin: 30px;
+}
